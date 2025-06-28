@@ -2,7 +2,7 @@
 
 # Hi there, I'm Ivan 👋
 
-### A Senior Data Engineer who loves building robust systems and a highly-customized dev environment.
+### A Data Engineer who loves building robust systems and a highly-customized dev environment.
 
 </div>
 
