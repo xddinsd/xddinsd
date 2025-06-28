@@ -21,6 +21,9 @@ Here's a snapshot of the technologies I work with daily:
   <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"/>
   </a>
+  <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white" alt="Scala"/>
+  </a>
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   </a>
